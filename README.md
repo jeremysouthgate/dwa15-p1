@@ -1,2 +1,11 @@
-# dwa15-p1
-HES CSCI E-15 Dynamic Web Applications -- Project 1
+# Project 1
++ By: Jeremy C. Southgate
++ Production URL: <http://p1.sss1.me>
+
+
+## Sources
+n/a
+
+
+## Comments
+n/a
