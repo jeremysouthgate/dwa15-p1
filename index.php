@@ -1,11 +1,9 @@
 <!doctype html>
 <html lang='en'>
 <head>
-
     <title>DWA Project 1</title>
     <meta charset="utf-8" />
     <link rel='stylesheet' href='./styles/index.css'/>
-
 </head>
 <body>
     <div id='content_border'>
