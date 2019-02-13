@@ -50,8 +50,10 @@ body
         #description
         {
             color: #999999;
-            width: 500px;
+            width: calc(100%-50px);
+            max-width: 500px;
             display: block;
+            padding: 0 25px 0 25px;
             margin: 0 auto 0 auto;
         }
         #quotes
