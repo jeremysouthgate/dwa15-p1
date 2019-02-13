@@ -9,7 +9,6 @@ body
 {
     display: table-cell;
     vertical-align: middle;
-    text-align: center;
 }
 
 #content_border
@@ -37,6 +36,7 @@ body
             font-family: Geneva;
             font-size: 45px;
             display: table;
+            text-align: center;
         }
         #portrait
         {
@@ -47,10 +47,18 @@ body
             border-radius: 10px;
             margin: 25px auto 25px auto;
         }
+        #description
+        {
+            color: #999999;
+            width: 500px;
+            display: block;
+            margin: 0 auto 0 auto;
+        }
         #quotes
         {
             width: calc(100% - 50px);
-            height: 150px;
+            height: 75px;
             padding: 25px;
             display: table;
+            text-align: center;
         }
