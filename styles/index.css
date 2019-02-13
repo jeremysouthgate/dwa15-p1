@@ -1,3 +1,5 @@
+/* HTML Tags */
+
 body
 {
     width: calc(100vw - 50px);
@@ -6,11 +8,17 @@ body
     font-family: Geneva;
 }
 
+
+/* Classes */
+
 .center-text
 {
     display: table-cell;
     vertical-align: middle;
 }
+
+
+/* Nested Page Content */
 
 #content_border
 {
